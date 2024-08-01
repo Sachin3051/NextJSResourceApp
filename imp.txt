@@ -1,3 +1,0 @@
-http://localhost:3000/studio/structure/resource;80c3ad2c-9c59-4c40-8faa-c4c6755dc4a1%2Ctemplate%3Dresource
-https://www.sanity.io/manage/personal/project/4if4bopy/api#tokens
-https://github.com/adrianhajdin/jsm_resources_next13/tree/main
